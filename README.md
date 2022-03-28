@@ -50,6 +50,6 @@ For more information on how this was done, please see the following files:
 
 ## Final Dashboard
 
-The final dashboard webpage looks like the following image.
+The final dashboard webpage looks like the following image. The webpage can also be found using Github Pages, found [here](https://zforadi.github.io/Belly_Button_Biodiversity_with_Plotly/)
 
 ![Final_page](Final_page.png)
