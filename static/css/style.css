@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("/images/testubes.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+body {
+    background-color: #DDEEF8;
+}
+.panel {
+    background-color: #DDEEF8;
+}
+
+.well {
+    background-color: #EDF7FC;
+}
